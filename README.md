@@ -1,11 +1,12 @@
-Hi, Welcome to my GitHub profile!
+![css_illustration_github](https://user-images.githubusercontent.com/58239575/120583605-8c6c1300-c3fc-11eb-8c52-1d58aea68e48.jpg)
+### Hi, welcome to my GitHub profile!
 
 Being part of the tech world excites me because it is truly amazing to dive into new technologies.
 I am always looking for a challenge when building applications and collaborating on projects with other developers.
 
 If you want to stay up to date with what I'm up to, feel free to visit my website: www.patriciacordero.co
 
-![css_illustration_github](https://user-images.githubusercontent.com/58239575/120583605-8c6c1300-c3fc-11eb-8c52-1d58aea68e48.jpg)
+
 
 
 
