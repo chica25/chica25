@@ -1,4 +1,5 @@
-### Hi there 👋
+![css_illustration_github](https://user-images.githubusercontent.com/58239575/120583605-8c6c1300-c3fc-11eb-8c52-1d58aea68e48.jpg)
+
 
 <!--
 **chica25/chica25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
