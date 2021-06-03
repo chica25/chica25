@@ -1,4 +1,10 @@
+Hi, Welcome to my GitHub profile!
+
+Being part of the tech world excites because it is truly amazing to dive into new technologies. I am always looking for a challenge when building applications and collaborate on projects with other developers, so feel free to reach out. 
+
 ![css_illustration_github](https://user-images.githubusercontent.com/58239575/120583605-8c6c1300-c3fc-11eb-8c52-1d58aea68e48.jpg)
+
+
 
 
 <!--
