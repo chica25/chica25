@@ -1,4 +1,4 @@
-![css_illustration_github](https://user-images.githubusercontent.com/58239575/120583605-8c6c1300-c3fc-11eb-8c52-1d58aea68e48.jpg)
+
 ### Hi, welcome to my GitHub profile!
 
 Being part of the tech world excites me because it is truly amazing to dive into new technologies.
