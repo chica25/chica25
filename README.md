@@ -1,6 +1,7 @@
 Hi, Welcome to my GitHub profile!
 
-Being part of the tech world excites me because it is truly amazing to dive into new technologies. I am always looking for a challenge when building applications and collaborating on projects with other developers, so feel free to reach out. 
+Being part of the tech world excites me because it is truly amazing to dive into new technologies.
+I am always looking for a challenge when building applications and collaborating on projects with other developers.
 
 To stay up to date with what I'm up to, feel free to check my website: www.patriciacordero.co
 
