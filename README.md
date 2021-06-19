@@ -1,8 +1,8 @@
 
 ### Hi, welcome to my GitHub profile!
 
-Being part of the tech world excites me because it is truly amazing to dive into new technologies.
-I am always looking for a challenge when building applications, as well as collaborating on projects with other developers.
+Building applications excites me because it is truly amazing to dive into new technologies and problem solving.
+I am always looking for a challenge, as well as collaborating on projects with other developers.
 
 #### I enjoy working in the following languages and frameworks: 
 
