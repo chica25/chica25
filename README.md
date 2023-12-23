@@ -1,7 +1,7 @@
 
 ### Hi, welcome to my GitHub profile!
 
-Building applications excites me because it is truly amazing to dive into new technologies. 
+Building applications and working with data excites me because it is truly amazing to dive into new technologies. 
 I am always looking for a challenge, as well as collaborating on projects with other developers.
 
 #### I enjoy working in the following languages and frameworks: 
